@@ -1,3 +1,4 @@
+![sum-of-multiples](https://user-images.githubusercontent.com/44240533/226493531-69d70956-d91f-4fad-8398-ac5b0aacb18b.svg)
 # Sum of Multiples
 
 Welcome to Sum of Multiples on Exercism's Java Track.
